@@ -10,6 +10,6 @@
 
 存在一组向量$\vec{v}_{1},\vec{v}_{2},\vec{v}_{3}\cdots\vec{v}_{p}$
 
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
 
-$\vec{v}_{1},\vec{v}_{2},\vec{v}_{3}\cdots\vec{v}_{p}$
+$$ evidence\_{i}=\sum \_{j}W\_{ij}x\_{j}+b\_{i} $$
